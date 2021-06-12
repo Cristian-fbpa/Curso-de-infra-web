@@ -7,5 +7,8 @@ Curso de infraestrutura Web
 
 git checkout -b Cristian-parte2
 
-git checkout
+
+git checkout -b cristian-parte1
+
+conflitos
 
