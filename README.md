@@ -10,5 +10,5 @@ git checkout -b Cristian-parte2
 
 git checkout -b cristian-parte1
 
-conflitos
 
+git checkout
